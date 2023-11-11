@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+    block-size: border-box;
+}
+.head p{
+    text-align: center;
+    background-color: #B36050;
+    padding: 10px 0;
+}
+.container{
+    width: 100%;
+    max-width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container2{
+    display: inline-block;
+    background-color: white;
+}
+.lis {
+    display: inline-block;
+    padding: 16px 101px 16px 52px;
+    margin-right: 170px;
+
+}
+.list{
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+margin-right: 15px;
+margin-left: 15px;
+display: inline-block;
+}
+.aitem{
+    text-decoration: none;
+    color: #B4604D;
+}
+ .img1{
+    width: 120px;
+    height: 56px;
+    display: inline-block;
+    margin-right: 100px;
+}
+.btn{
+    font-size: 14px;
+    color:  #B45F4D;
+    display: inline-block;
+    margin: 17.6px 17.6px 0 362px;
+}
+.btn p{
+    display: inline-block;
+    padding-right: 43.55px;
+}
+.container3 {
+ text-align: center;
+ background: #A9AE8D; 
+}
+#par1{
+    padding:69px 599px 15px;
+    font-size: 18px;
+    color: #F6F4EC;
+}
+#par2{
+    padding: 0 492px 37px 492px;
+    font-size: 33px;
+    color: #F6F4EC;
+}
+.but {
+    width: 128px;
+    height: 48px;
+    padding: 10px 20px;
+    font-size: 17px;
+    background: #B45F4D;
+    margin-bottom: 51px;
+}
+h2{
+    text-align: center;
+    color: #B45F4D;
+    margin: 39px 621px 14px 621px;
+    padding-top: 39px;
+}
+.pics p{
+    color: #B45F4D;
+    font-size: 18px;
+    margin-top: 35px;
+    margin-bottom: -12px;
+}
+.container2nd{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F6F4EC;
+}
+.pics {
+    display: inline-block;
+    margin-right: 80px;
+}
+.pics1 {
+    margin-left: 125px;
+}
+.container3rd{
+    width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fff;
+    
+}
+#pletter p{
+ font-size: 20px;
+ padding: 30px 615.74px 30px 29px;
+ background-color: #DF9B7A;
+}
+
+.picss{
+    width: 1200px;
+    height: 407px;
+    margin: 30px 130px -100px 110px;
+}
+
+.pletter{
+    margin-bottom: 90px;
+}
